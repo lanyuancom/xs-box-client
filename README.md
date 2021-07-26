@@ -22,7 +22,7 @@
 
 - 客户端管理登录 <a target="_blank" href="http://www.xs-box.com/lan-server">http://www.xs-box.com/lan-server</a> 登录账号请使用第三方快速登录
 - xs-box-client 客户端下载地
-- 链接: <a target="_blank" href="https://pan.baidu.com/s/1Vdw36qJ2mIeocYVxwkwPZw"><font color="red">https://pan.baidu.com/s/1Vdw36qJ2mIeocYVxwkwPZw</font></a> 提取码: <font color="red">ivx5</font>
+- 链接: <a target="_blank" href="https://pan.baidu.com/s/1Vdw36qJ2mIeocYVxwkwPZw">https://pan.baidu.com/s/1Vdw36qJ2mIeocYVxwkwPZw</a> 提取码: <font color="red">ivx5</font>
 
 ### 使用
 
